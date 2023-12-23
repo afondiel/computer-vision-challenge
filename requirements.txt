@@ -1,5 +1,10 @@
 numpy
 pandas
 cv2
+opencv
 matplotlib
-transformers
+tensorflow
+pytorch
+tesseract
+yolov7
+
