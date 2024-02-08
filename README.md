@@ -42,44 +42,43 @@ conda install --channel conda-forge --file requirements.txt
 
 ### Level 0 - Zero: Getting Started with Basics 
 
-||Project|Description|
-|--|--|--|
-|[1](#)| Getting Stated with Images| Load an image, display it, and apply basic transformations.|
-|[2](#)| Image Manipulation| Modify pixels, resizing, Flipping, Cropping, image annotations|
-|[3](#)| Image Filtering & Restoration|	Enhance or manipulate image features using filtering techniques.|
-|[4](#)| Image Enhancement|	Enhance using arithmetic & bitwise operations|
-|[5](#)| Image Segmentation| segment images into regions or pixels that belong to different classes or categories|
-|[6](#)| Feature Extraction & Alignement| Learn how to extract features from images using descriptors based on the nature of the features|
-|[7](#)| Optical Character Recognition (OCR)| Learn how to recognize text in images or documents using libraries such as Tesseract, Pytesseract, or EasyOCR|
-|||
-
+||Project|Description|Notebooks|
+|--|--|--|--|
+|[1](#)| Getting Stated with Images| Load an image, display it, and apply basic transformations.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[2](#)| Image Manipulation| Modify pixels, resizing, Flipping, Cropping, image annotations|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[3](#)| Image Filtering & Restoration|	Enhance or manipulate image features using filtering techniques.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[4](#)| Image Enhancement|	Enhance using arithmetic & bitwise operations|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[5](#)| Image Segmentation| segment images into regions or pixels that belong to different classes or categories|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[6](#)| Feature Extraction & Alignement| Learn how to extract features from images using descriptors based on the nature of the features|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[7](#)| Optical Character Recognition (OCR)| Learn how to recognize text in images or documents using libraries such as Tesseract, Pytesseract, or EasyOCR|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+||||
 
 ### Level 1 - Apprentice: Hands-on Computer Vision with Deep Learning
 
-||Project|Description|
-|--|--|--|
-|[1](#)|MNIST Handwritten Digit Recognition	|Train a simple neural network to classify handwritten digits from the MNIST dataset.|
-|[2](#)|CIFAR-10 Image Classification	|Utilize convolutional neural networks (CNNs) to classify images of different types of objects from the CIFAR-10 dataset.|
-|[3](#)|Object Detection with YOLOv5	|Implement YOLOv5, a real-time object detection algorithm, to detect objects in images and videos.|
-|[4](#)|Semantic Segmentation with DeepLabv3+	|Utilize DeepLabv3+, a semantic segmentation model, to segment images into different semantic categories.|
-|[5](#)|Facial Recognition with OpenFace	|Explore facial recognition using OpenFace, a facial recognition library, to identify individuals in images.|
-|[6](#)| Object Tracking|	Follow the movement of objects in a video sequence.|
-|[7](#) | Human Pose Estimation | Estimate the pose of a person in an image or a video using OpenCV and a pre-trained model. |
-|||
+||Project|Description|Notebooks|
+|--|--|--|--|
+|[1](#)|MNIST Handwritten Digit Recognition	|Train a simple neural network to classify handwritten digits from the MNIST dataset.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[2](#)|CIFAR-10 Image Classification	|Utilize convolutional neural networks (CNNs) to classify images of different types of objects from the CIFAR-10 dataset.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[3](#)|Object Detection with YOLOv5	|Implement YOLOv5, a real-time object detection algorithm, to detect objects in images and videos.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[4](#)|Semantic Segmentation with DeepLabv3+	|Utilize DeepLabv3+, a semantic segmentation model, to segment images into different semantic categories.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[5](#)|Facial Recognition with OpenFace	|Explore facial recognition using OpenFace, a facial recognition library, to identify individuals in images.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[6](#)| Object Tracking|	Follow the movement of objects in a video sequence.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[7](#) | Human Pose Estimation | Estimate the pose of a person in an image or a video using OpenCV and a pre-trained model. |[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+||||
 
 
 ### Level 2 - Hero: Vision LLMs: Image Generation(GANs, VAEs...), Synthesis & Captioning
 
-||Project|Description|
-|--|--|--|
-|[1](#)|Creative Image Generation with GANs	|Generate novel images of different styles using GANs.|
-|[2](#)|Text-to-Image Synthesis with LLMs and Diffusion Models	|Create realistic and creative images from text descriptions using LLMs and diffusion models.|
-|[3](#)|AI-Powered Image Restoration and Enhancement	|Restore and enhance images using AI methods.|
-|[4](#)|Style Transfer with GANs and Image Processing	|Transfer the artistic style of one image to another.|
-|[5](#)|AI-Driven Image Captioning and Storytelling	|Generate comprehensive and creative captions and stories from images using LLMs.|
-|[6](#)|AI-Assisted Image Editing and Manipulation	|Automate image editing and manipulation tasks using AI.|
-|[7](#)|AI-Powered Image Analysis and Classification	|Analyze and classify images using AI models|
-|||
+||Project|Description|Notebooks|
+|--|--|--|--|
+|[1](#)|Creative Image Generation with GANs	|Generate novel images of different styles using GANs.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[2](#)|Text-to-Image Synthesis with LLMs and Diffusion Models	|Create realistic and creative images from text descriptions using LLMs and diffusion models.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[3](#)|AI-Powered Image Restoration and Enhancement	|Restore and enhance images using AI methods.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[4](#)|Style Transfer with GANs and Image Processing	|Transfer the artistic style of one image to another.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[5](#)|AI-Driven Image Captioning and Storytelling	|Generate comprehensive and creative captions and stories from images using LLMs.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[6](#)|AI-Assisted Image Editing and Manipulation	|Automate image editing and manipulation tasks using AI.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[7](#)|AI-Powered Image Analysis and Classification	|Analyze and classify images using AI models|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+||||
 
 ## Usage
 
