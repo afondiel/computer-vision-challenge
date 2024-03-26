@@ -44,7 +44,7 @@ conda install --channel conda-forge --file requirements.txt
 
 ||Project|Description|Notebooks|
 |--|--|--|--|
-|[1](#)| Getting Stated with Images| Load an image, display it, and apply basic transformations.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/01_Zero_Getting_Started_With_Images/Getting_Started_with_Images.ipynb)|
+|[[1]](./01_Zero_Getting_Started_With_Images)| Getting Stated with Images| Load an image, display it, and apply basic transformations.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/01_Zero_Getting_Started_With_Images/Getting_Started_with_Images.ipynb)|
 |[2](#)| Image Manipulation| Modify pixels, resizing, Flipping, Cropping, image annotations|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 |[3](#)| Image Filtering & Restoration|	Enhance or manipulate image features using filtering techniques.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 |[4](#)| Image Enhancement|	Enhance using arithmetic & bitwise operations|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
