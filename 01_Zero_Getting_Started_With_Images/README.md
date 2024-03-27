@@ -1,4 +1,4 @@
-# Zero Level - Getting Stated with Images 
+# Zero - 01: Getting Stated with Images 
 
 ## Overview
 
