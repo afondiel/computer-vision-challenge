@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a collection of computer vision foundational projects for anyone diving into the field. By the way, if that's the case, welcome.
+This is a collection of computer vision foundational projects for anyone diving into the field.
 
 The **goal** of this project is to help you learn and practice computer vision skills and concepts in a fun and engaging way.
 
