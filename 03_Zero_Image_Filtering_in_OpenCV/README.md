@@ -8,6 +8,7 @@ Get started with Image Filtering using OpenCV.
 
 - python
 - cv2
+- numpy
 
 ## Usage
 
