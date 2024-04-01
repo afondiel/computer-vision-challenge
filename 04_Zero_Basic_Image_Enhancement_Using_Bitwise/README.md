@@ -13,11 +13,14 @@ Some of the fundamental bitwise operations often used for Image Enhancements in 
   
 ## Usage
 
-To run the notebook: Open on Jupternotebook, Google Colab, Kaggle any other notebook tool
+To run the notebook, use Jupyter notebook, Google Colab, Kaggle or any other notebook tool.
 
 >[!TIP]
-> Use the following command to download image resources from github to your Colab or Kaggle environment: 
->  `!wget https://github.com/afondiel/computer-vision-hello-world-challenges/tree/main/04_Zero_Basic_Image_Enhancement_Using_Bitwise/image_files.png`
+> Use the following command to download image resources from github to your Colab or Kaggle environment:
+
+```sh
+!wget https://github.com/afondiel/computer-vision-hello-world-challenges/tree/main/04_Zero_Basic_Image_Enhancement_Using_Bitwise/image_files.png
+```
 
 |Notebook|Colab|Kaggle|
 |--|--|--|
