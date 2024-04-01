@@ -24,7 +24,7 @@ To run the notebook, use Jupyter notebook, Google Colab, Kaggle or any other not
 
 |Notebook|Colab|Kaggle|
 |--|--|--|
-|[Go to notebook](04_Zero_Basic_Image_Enhancement_Using_Bitwise\Bitwise_Operations_on_images.ipynb)| [![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/03-object-tracking/object-tracking-deep-sort.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/thepostitguy/object-tracking-deep-sort/edit)|
+|[Go to notebook](04_Zero_Basic_Image_Enhancement_Using_Bitwise\Bitwise_Operations_on_images.ipynb)| [![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/04_Zero_Basic_Image_Enhancement_Using_Bitwise/Bitwise_Operations_on_images.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/thepostitguy/object-tracking-deep-sort/edit)|
 
 ## Contributing
 
