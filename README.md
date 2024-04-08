@@ -1,4 +1,4 @@
-# Computer Vision 'Hello World' Challenges 🏆 
+# Computer Vision Challenge 🏆 
 
 ## Overview
 
@@ -40,7 +40,7 @@ conda install --channel conda-forge --file requirements.txt
 
 ## Hands-on Computer Vision Challenges!
 
-### Level 0 - Zero: Getting Started with Basics 
+### Level 0 - Zero: Getting Started with Basics 💪
 
 ||Project|Description|Notebooks|
 |--|--|--|--|
@@ -53,7 +53,7 @@ conda install --channel conda-forge --file requirements.txt
 |[[7]](./07_Zero_Optical_Character_Recognition_OCR/)| Optical Character Recognition (OCR)| Learn how to recognize text in images or documents using libraries such as Tesseract, Pytesseract, or EasyOCR|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 ||||
 
-### Level 1 - Apprentice: Hands-on Computer Vision with Deep Learning
+### Level 1 - Apprentice: Hands-on Computer Vision with Deep Learning 🔥
 
 ||Project|Description|Notebooks|
 |--|--|--|--|
@@ -67,7 +67,7 @@ conda install --channel conda-forge --file requirements.txt
 ||||
 
 
-### Level 2 - Hero: Vision LLMs: Image Generation(GANs, VAEs...), Synthesis & Captioning
+### Level 2 - Hero: Vision LLMs: Image Generation(GANs, VAEs...), Synthesis & Captioning ⚡
 
 ||Project|Description|Notebooks|
 |--|--|--|--|
