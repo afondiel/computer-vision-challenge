@@ -29,7 +29,7 @@ To run the notebook, use Jupyter notebook, Google Colab, Kaggle or any other not
 
 |Notebook|Colab|Kaggle|
 |--|--|--|
-|[Go to notebook](05_Zero_Image_Segmentation_Traditional_CV/Image_Segmentation_Trad_CV.ipynb)| [![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/05_Zero_Image_Segmentation_Traditional_CV/Image_Segmentation_Trad_CV.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#)|
+|[Go to notebook](05_Zero_Image_Segmentation_Traditional_CV/Image_Segmentation_Trad_CV.ipynb)| [![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/05_Zero_Image_Segmentation_Traditional_CV/Image_Segmentation_Trad_CV.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#)|
 
 ## Contributing
 
