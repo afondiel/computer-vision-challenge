@@ -57,13 +57,13 @@ conda install --channel conda-forge --file requirements.txt
 
 ||Project|Description|Notebooks|
 |--|--|--|--|
-|[[1]](#)|MNIST Handwritten Digit Recognition	|Train a simple neural network to classify handwritten digits from the MNIST dataset.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-|[[2]](#)|CIFAR-10 Image Classification	|Utilize convolutional neural networks (CNNs) to classify images of different types of objects from the CIFAR-10 dataset.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-|[[3]](#)|Object Detection with YOLOv5	|Implement YOLOv5, a real-time object detection algorithm, to detect objects in images and videos.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-|[[4]](#)|Semantic Segmentation with DeepLabv3+	|Utilize DeepLabv3+, a semantic segmentation model, to segment images into different semantic categories.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-|[[5]](#)|Facial Recognition with OpenFace	|Explore facial recognition using OpenFace, a facial recognition library, to identify individuals in images.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-|[[6]](#)| Object Tracking|	Follow the movement of objects in a video sequence.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-|[[7]](#) | Human Pose Estimation | Estimate the pose of a person in an image or a video using OpenCV and a pre-trained model. |[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[1]](./L1_01_MNIST_Handwritten_Digit_Recognition)|MNIST Handwritten Digit Recognition	|Train a simple neural network to classify handwritten digits from the MNIST dataset.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[2]](./L1_02_CIFAR_10_Image_Classification)|CIFAR-10 Image Classification	|Utilize convolutional neural networks (CNNs) to classify images of different types of objects from the CIFAR-10 dataset.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[3]](./L1_03_Object_Image_Detection_with_YOLOv_)|Object Detection with YOLOv5	|Implement YOLOv5, a real-time object detection algorithm, to detect objects in images and videos.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[4]](./L1_04_Image_Segmentation_with_Deep_Learning)|Semantic Segmentation with DeepLabv3+	|Utilize DeepLabv3+, a semantic segmentation model, to segment images into different semantic categories.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[5]](./L1_05_Face_Detection_with_Deep_Learning)|Facial Recognition with OpenFace	|Explore facial recognition using OpenFace, a facial recognition library, to identify individuals in images.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[6]](./L1_06_2D_Object_Tracking)| Object Tracking|	Follow the movement of objects in a video sequence.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[7]](./L1_07_Human_Pose_Estimation_with_Deep_Learning) | Human Pose Estimation | Estimate the pose of a person in an image or a video using OpenCV and a pre-trained model. |[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 ||||
 
 
