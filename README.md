@@ -64,7 +64,7 @@ conda install --channel conda-forge --file requirements.txt
 |[[5]](./L1_05_Face_Detection_with_Deep_Learning)|Facial Recognition with OpenFace	|Explore facial recognition using OpenFace, a facial recognition library, to identify individuals in images.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/06_Zero_Feature_Extraction_Alignment/Image_Features_and_Image_Alignment.ipynb)|
 |[[6]](./L1_06_2D_Object_Tracking)| Object Tracking|	Follow the movement of objects in a video sequence.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/06_Zero_Feature_Extraction_Alignment/Image_Features_and_Image_Alignment.ipynb)|
 |[[7]](./L1_07_Human_Pose_Estimation_with_Deep_Learning) | Human Pose Estimation | Estimate the pose of a person in an image or a video using OpenCV and a pre-trained model. |[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/06_Zero_Feature_Extraction_Alignment/Human_Pose_Estimation_uisng_Deep_Learning.ipynb)|
-||||
+|||| 
 
 
 ### Level 2 - Hero: Vision LLMs: Image Generation(GANs, VAEs...), Synthesis & Captioning ⚡
