@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a tiny Image-To-Text project using Optical Character Recognition (OCR) techniques: computer vision-based and neural nets-based tools, to recognize and extract text from images.
+This is an Optical Character Recognition (OCR) projet, a sort of Image-To-Text technique using traditional computer vision and deep learning approaches, to recognize and extract text from images.
 
 ## Requirements
 
