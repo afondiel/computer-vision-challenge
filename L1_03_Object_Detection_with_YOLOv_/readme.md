@@ -1,4 +1,4 @@
-# L1 - 03: Object Image Detection using YOLOv_
+# L1 - 03: Object Detection using YOLOv*
 
 ![](https://camo.githubusercontent.com/58b227e3e3d1ccff8df67e517407cd4e73b886ab9263d3d2830050db3dcb0e4d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3835302f312a616c65505767644d72516553372d57425664304d56412e6a706567)
 (Src: [The AI Technology](https://medium.com/the-ai-technology/segmentation-vs-object-detection-vs-classification-things-you-need-to-know-b86b05f5167b))
@@ -6,7 +6,7 @@
 ## Overview
 
 - This is a set of 2D object detection projects using YOLO (You Only Look Once), which is a deep learning model that can detect and classify objects in images.
-- You'll find attached from YOLOv3, v5, v8 to the lastest version
+- `*`: You'll find attached from YOLOv3, v5, v8 to the lastest version
 
 ## Contributing
 
