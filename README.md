@@ -51,7 +51,6 @@ conda install --channel conda-forge --file requirements.txt
 |[[5]](./05_Zero_Image_Segmentation_Traditional_CV/)| Image Segmentation (Traditional)| segment images into regions or pixels that belong to different classes or categories|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 |[[6]](./06_Zero_Feature_Extraction_Alignment/)| Feature Extraction & Alignment| Learn how to extract features from images using descriptors based on the nature of the features|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/06_Zero_Feature_Extraction_Alignment/Image_Features_and_Image_Alignment.ipynb)|
 |[[7]](./L0_07_Optical_Character_Recognition_OCR/)| Optical Character Recognition (OCR)| Learn how to recognize text in images or documents using libraries such as Tesseract, Pytesseract, or EasyOCR|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-||||
 
 ### Level 1 - Apprentice: Hands-on Computer Vision with Deep Learning 🔥
 
@@ -64,7 +63,6 @@ conda install --channel conda-forge --file requirements.txt
 |[[5]](./L1_05_Face_Detection_with_Deep_Learning)|Facial Recognition with OpenFace	|Explore facial recognition using OpenFace, a facial recognition library, to identify individuals in images.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/L1_05_Face_Detection_with_Deep_Learning/notebooks/Face_Detection_with_Caffe.ipynb)|
 |[[6]](./L1_06_2D_Object_Tracking)| Object Tracking|	Follow the movement of objects in a video sequence.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/L1_06_2D_Object_Tracking/notebooks/object-tracking-deep-sort.ipynb)|
 |[[7]](./L1_07_Human_Pose_Estimation_with_Deep_Learning) | Human Pose Estimation | Estimate the pose of a person in an image or a video using OpenCV and a pre-trained model. |[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/L1_07_Human_Pose_Estimation_with_Deep_Learning/Human_Pose_Estimation_using_Deep_Learning.ipynb)|
-|||| 
 
 
 ### Level 2 - Hero: Vision LLMs: Image Generation(GANs, VAEs...), Synthesis & Captioning ⚡
@@ -78,7 +76,6 @@ conda install --channel conda-forge --file requirements.txt
 |[[5]](L2_05_AI_Driven_Image_Captioning_and_Storytelling)|AI-Driven Image Captioning and Storytelling	|Generate comprehensive and creative captions and stories from images using LLMs.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 |[[6]](L2_06_AI_Assisted_Image_Editing_and_Manipulation)|AI-Assisted Image Editing and Manipulation	|Automate image editing and manipulation tasks using AI.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 |[[7]](L2_07_AI_Powered_Image_Analysis_and_Classification)|AI-Powered Image Analysis and Classification	|Analyze and classify images using AI models|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-||||
 
 ## Usage
 
