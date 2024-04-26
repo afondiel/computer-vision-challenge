@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is a collection of computer vision foundational projects for anyone diving into the field.
+This is a collection of foundational projects for anyone diving into computer vision. 
 
-The **goal** of this project is to help you learn and practice computer vision skills and concepts in a fun and engaging way.
+Explore some of computer vision core concepts and hands-on projects through this fun challenge.
 
 The project has 3 levels: 
 - **Level 0 - Zero (beginner): Getting Started with Basics** 
