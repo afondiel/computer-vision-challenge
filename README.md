@@ -11,7 +11,7 @@ The project has 3 levels:
 - **Level 1 - Apprentice (intermediate): Hands-on Computer Vision with Deep Learning**
 - **Level 2 - Hero (advanced): Vision LLMs: Image Generation(GANs, VAEs...), Synthesis & Captioning** 
 
-## Recall of a Basic Computer Vision Pipeline
+## Basic Computer Vision Pipeline
 
 1. Image Acquisition
 2. Image Processing
@@ -20,12 +20,12 @@ The project has 3 levels:
 
 ## Requirements
 
-You can install the depencies packages using `pip` or `conda`. For example:
+To install the dependency packages with `pip` and `conda`:
 
-create a new conda environment using
+create a new conda environment
 
 ```
-conda create --name cv-hell-world
+conda create --name cv-challenge
 ```
 then,
 
@@ -79,14 +79,7 @@ conda install --channel conda-forge --file requirements.txt
 
 ## Usage
 
-Some projects are implemented in Jupyter notebooks, while others have a `main.py` file.
-
-For projects implemented in Jupyter notebooks, run the notebook using:
-
-- jupyter notebook/lab
-- Google Colab
-
-For projects with a main.py file, run the following command:
+Most code runs in Jupyter notebooks. Open them with `jupyter notebook/lab` or `Colab`. For `main.py` projects, use the provided command:
   
 ```
 python main.py
@@ -94,7 +87,7 @@ python main.py
 
 ## Contributing
 
-If you want to contribute to this project, you are welcome to do so. You can either add new projects, improve existing ones, or fix bugs and errors. 
+Help this project grow! Add new projects, improve existing ones and fix issues. 
 
 Please follow these steps to contribute:
 
