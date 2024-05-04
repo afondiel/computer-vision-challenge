@@ -13,10 +13,17 @@ The project has 3 levels:
 
 ## Basic Computer Vision Pipeline
 
-1. Image Acquisition
-2. Image Processing
-3. Feature Extraction
-4. Output, Interpretation & Analysis
+```mermaid
+graph LR
+    A[Image Acquisition] ==> B[Image Processing]
+    B ==> C[Feature Extraction]
+    C ==> D[Output, Interpretation & Analysis]
+
+    style A fill:#EEE,stroke:#333,stroke-width:4px
+    style B fill:#F88,stroke:#333,stroke-width:4px
+    style C fill:#4F4,stroke:#333,stroke-width:4px
+    style D fill:#33F,stroke:#333,stroke-width:4px
+```
 
 ## Requirements
 
