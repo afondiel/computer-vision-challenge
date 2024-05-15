@@ -23,4 +23,5 @@ Please follow these steps to contribute:
 - [Generative Adversarial Text to Image Synthesis - paper (2016)](https://arxiv.org/pdf/1605.05396.pdf)
 - [A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis - paper (2019)](https://arxiv.org/pdf/1910.09399.pdf)
 - [DiffusionGPT: LLM-Driven Text-to-Image Generation System - paper (2024)](https://arxiv.org/pdf/2401.10061.pdf)
+- [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/)
 
