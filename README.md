@@ -27,22 +27,36 @@ graph LR
 
 ## Requirements
 
-To install the dependency packages with `pip` and `conda`:
+To install the dependency packages using either `conda` or `pip`:
 
-create a new conda environment
+**Using conda**:
 
-```
-conda create --name cv-challenge
-```
-then,
+1. create a new conda environment
 
 ```bash
-pip install -r requirements.txt
+conda create --name cv-challenge
 ```
-or 
+
+2. Activate the newly created environment:
+
+```
+source activate cv-challenge  # For bash/zsh
+conda activate cv-challenge  # For conda prompt/powershell
+```
+
+3. Install dependencies from the requirements.txt file:
+
 
 ```bash
 conda install --channel conda-forge --file requirements.txt
+```
+
+**Using pip**:
+
+1. Install dependencies from the requirements.txt file:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Hands-on Computer Vision Challenges!
@@ -86,7 +100,9 @@ conda install --channel conda-forge --file requirements.txt
 
 ## Usage
 
-Most code runs in Jupyter notebooks. Open them with `jupyter notebook/lab` or `Colab`. For `main.py` projects, use the provided command:
+Most projects are written in Jupyter notebooks, you can run the directly using `jupyter notebook/lab` or `Colab`.
+
+For projects with a `main.py` file, run the command below:
   
 ```
 python main.py
