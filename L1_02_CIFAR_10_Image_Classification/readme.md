@@ -18,7 +18,8 @@ Please follow these steps to contribute:
 
 ## References
 
-- [CIFAR-10 (Canadian Institute for Advanced Research, 10 classes)- paperwithcode.com](https://paperswithcode.com/dataset/cifar-10) 
-- [Huggingface/datasets (cifar10)](https://huggingface.co/datasets/cifar10)
+- [CIFAR-10 - Wikipedia](https://en.wikipedia.org/wiki/CIFAR-10) 
+- [CIFAR-10 (Canadian Institute for Advanced Research, 10 classes) - paperwithcode.com](https://paperswithcode.com/dataset/cifar-10) 
+- [Cifar10 datasets - Huggingface](https://huggingface.co/datasets/cifar10)
 
 
