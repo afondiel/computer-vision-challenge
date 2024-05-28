@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/afondiel/computer-vision-challenge)
+![GitHub repo size](https://img.shields.io/github/repo-size/afondiel/computer-vision-challenge) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/afondiel/computer-vision-challenge/main) ![Packagist Stars](https://img.shields.io/github/stars/afondiel/computer-vision-challenge.svg) ![Packagist forks](https://img.shields.io/github/forks/afondiel/computer-vision-challenge.svg)
+
 # Computer Vision Challenge 🏆 
 
 ## Overview
