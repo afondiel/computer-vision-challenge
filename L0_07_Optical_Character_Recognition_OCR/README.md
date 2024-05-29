@@ -2,14 +2,17 @@
 
 ## Overview
 
-This is an Optical Character Recognition (OCR) projet, a sort of Image-To-Text technique using traditional computer vision and deep learning approaches, to recognize and extract text from images.
+This is an Optical Character Recognition (OCR) projet, a specific type of `Image-To-Text technique` using traditional computer vision and deep learning approaches, to recognize and extract text from images.
 
 ## Requirements
 
 ```
-- keras-ocr
-- tesseract
-- EasyOCR 
+- tesseract-ocr
+- libtesseract-dev
+- pytesseract
+- pillow
+- io
+- matplotlib.pyplot
 ```
 
 ## Applications
@@ -27,10 +30,10 @@ This is an Optical Character Recognition (OCR) projet, a sort of Image-To-Text t
 
 ## Usage
 
-Run the notebook using notebook tools such as Jupyter notebook/lab, Google Colab, Kaggle or any other.
+Open the notebook using Google Colab (link below), Kaggle, Jupyter notebook/lab or a similar tool.
 
 >[!TIP]
-> Create a new cell and add the following command to download image resources from github to your Colab or Kaggle environment:
+> Create a new cell and add the following command to download project resources from github to your Colab or Kaggle environment if needed:
 
 ```sh
 !wget https://github.com/afondiel/computer-vision-hello-world-challenges/tree/main/06_Zero_Feature_Extraction_Alignment/image_missing_files.png
@@ -38,7 +41,7 @@ Run the notebook using notebook tools such as Jupyter notebook/lab, Google Colab
 
 |Notebook|Colab|Kaggle|
 |--|--|--|
-|[Go to notebook](./L0_07_Optical_Character_Recognition_OCR/Zero_Optical_Character_Recognition_OCR.ipynb)| [![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/L0_07_Optical_Character_Recognition_OCR/Zero_Optical_Character_Recognition_OCR.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#)|
+|[Go to notebook](./L0_07_Optical_Character_Recognition_OCR/Zero_Optical_Character_Recognition_OCR.ipynb)| [![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L0_07_Optical_Character_Recognition_OCR/notebooks/OCR_Pytesseract.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#)|
 
 ## Contributing
 
