@@ -7,4 +7,3 @@ tensorflow
 pytorch
 tesseract
 yolov7
-
