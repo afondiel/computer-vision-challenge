@@ -5,8 +5,30 @@
 
 ## Overview
 
-- This is a set of 2D object detection projects using YOLO (You Only Look Once), which is a deep learning model that can detect and classify objects in images.
-- `*`: You'll find attached from YOLOv3, v5, v8 to the lastest version
+Real-time 2D/3D object detection projects using YOLO (You Only Look Once), a deep learning model that can detect and classify objects in images and videos.
+- `*`: v3, v5, v8 to the lastest version
+
+## Requirements:
+
+```
+- Python
+- PyTorch
+- YOLOv3, YOLOv5, YOLOv8: repository (we will clone this from GitHub)
+- OpenCV for video processing
+- Google Colab for running the code
+``` 
+
+## Implementation Steps:
+
+```
+1. Setup Environment
+2. Clone YOLOv5 Repository
+3. Install Dependencies
+4. Load Pre-trained YOLOv5 Model
+5. Perform Object Detection on Images
+6. Perform Object Detection on Videos
+7. Step-by-Step Implementation:
+``` 
 
 ## Contributing
 
