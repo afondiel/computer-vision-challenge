@@ -4,6 +4,32 @@
 
 Using Convolutional Neural Networks (CNNs) to classify images of different types of objects from the CIFAR-10 dataset.
 
+## Requirements:
+
+```
+- Python
+- TensorFlow
+- PyTorch
+- CIFAR-10 dataset
+- Google Colab for running the code
+```
+
+## Implementation Steps:
+
+```
+1. Load and Explore the CIFAR-10 Dataset
+2. Preprocess the Data
+3. Build the CNN Model
+4. Compile the Model
+5. Train the Model
+6. Evaluate the Model
+7. Make Predictions
+```
+
+## Usage
+
+Please run the [notebook](./notebooks/) to see the results.
+
 ## Contributing
 
 If you want to contribute to this project, you are welcome to do so. You can either add new projects, improve existing ones, or fix bugs and errors. 
