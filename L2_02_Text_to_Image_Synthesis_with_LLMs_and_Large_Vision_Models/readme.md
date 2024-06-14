@@ -1,8 +1,14 @@
-# L2 - 02: Text to Image Synthesis with LLMs and Diffusion Models
+# L2 - 02: Text to Image Synthesis with LLMs and LVLMs
 
 ## Overview
 
-Text to Image Synthesis with LLMs and Diffusion Models.
+Text to Image Synthesis with Large Language Models (LLMs) and Large Vision-Language Models (LVLMs).
+
+**Implementation Pipeline**
+- Setup Environment
+- Install Dependencies
+- Load Pre-trained CLIP Model
+- Generate Images Based on Text Descriptions
 
 ## Contributing
 
@@ -24,4 +30,8 @@ Please follow these steps to contribute:
 - [A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis - paper (2019)](https://arxiv.org/pdf/1910.09399.pdf)
 - [DiffusionGPT: LLM-Driven Text-to-Image Generation System - paper (2024)](https://arxiv.org/pdf/2401.10061.pdf)
 - [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/)
+
+Papers:
+- [Enhancing Large Vision Language Models with Self-Training on Image Comprehension - May.2024](https://arxiv.org/pdf/2405.19716)
+- [LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models](https://arxiv.org/abs/2306.09265)
 
