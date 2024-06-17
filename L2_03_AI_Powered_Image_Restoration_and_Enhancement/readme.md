@@ -4,6 +4,18 @@
 
 Image Restoration and Enhancement using AI.
 
+**Implementation Pipeline**
+- Setup Environment
+- Install Dependencies
+- Load Pre-trained Models
+- Process Images for Each Task
+
+**Tasks**
+- Super-Resolution with ISR (Image Super-Resolution)
+- Denoising
+- Inpainting
+- General Enhancement
+
 ## Contributing
 
 If you want to contribute to this project, you are welcome to do so. You can either add new projects, improve existing ones, or fix bugs and errors. 
