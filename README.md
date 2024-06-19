@@ -14,8 +14,8 @@ The project has 3 levels:
 - **Level 1 - Apprentice (intermediate): Hands-on Computer Vision with Deep Learning**
 - **Level 2 - Hero (advanced): Vision LLMs: Image Generation(GANs, VAEs...), Synthesis & Captioning** 
 
-> [!IMPORTANT]\
-> L1 & L2 leverage mostly pre-trained models to make it accessible to all and explore a range of tasks based on different models. 
+> [!IMPORTANT] \
+> L1 and L2 primarily use pre-trained models to ensure accessibility for everyone. This allows us to explore a wider range of tasks using various models.
 
 ## Basic Computer Vision Pipeline
 
