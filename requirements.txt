@@ -1,9 +1,12 @@
 numpy
 pandas
 cv2
-opencv
+opencv-python-headless
 matplotlib
 tensorflow
 pytorch
 tesseract
-yolov7
+transformers
+timm
+datasets
+
