@@ -15,7 +15,7 @@ The project has 3 levels:
 - **Level 2 - Hero (advanced): Vision LLMs: Image Generation(GANs, VAEs...), Synthesis & Captioning** 
 
 > [!IMPORTANT]\
-> L1 and L2 primarily use pre-trained models to ensure accessibility for everyone. This allows us to explore a wider range of tasks using various models.
+> In L1 and L2, we primarily leverage pre-trained models to ensure accessibility for everyone. This also allows us to explore a wider range of vision recognition tasks using different types of models while focusing on the model's performance and outcome.
 
 ## Basic Computer Vision Pipeline
 
