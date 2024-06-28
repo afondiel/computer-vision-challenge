@@ -2,19 +2,20 @@
 
 ## Overview
 
-Image Restoration and Enhancement using AI.
+Collection of Image Restoration and Enhancement tasks powered by AI.
 
 **Implementation Pipeline**
 - Setup Environment
 - Install Dependencies
 - Load Pre-trained Models
 - Process Images for Each Task
+- Visualization
 
 **Tasks**
-- Super-Resolution with ISR (Image Super-Resolution)
-- Denoising
-- Inpainting
-- General Enhancement
+- T1: Image Resolution
+- T2: Denoising
+- T3: Deblurring
+- T3: Image Colorization
 
 ## Contributing
 
