@@ -1,5 +1,7 @@
 # L1 - 05: Face Detection with Deep Learning
 
+![](./docs/musk-output.jpg)
+
 ## Overview
 
 This is a set of face detection projects using deep learning frameworks such as tensorflow, pytorch, caffe, ...
