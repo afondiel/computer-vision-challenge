@@ -4,7 +4,7 @@
 
 Top State Of The Art (SOTA) models reference **Benchmarking** for Image Restoration and Enhancement tasks:
 
-|Task|Task Name|Descriptions| 
+|Task|Task Name|Description| 
 |--|--|--|
 |T1|Image resolution|Increase image resolution|
 |T2|De-noising|Remove noise|
