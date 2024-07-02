@@ -4,19 +4,24 @@
 
 Top State Of The Art (SOTA) models reference **Benchmarking** for Image Restoration and Enhancement tasks:
 
-- T1: **Image resolution:** increasing image resolution
-- T2: **De-noising:** removing noise
-- T3: **De-blurring:** sharpening blurry images
-- T4: **Colorization:** adding color information to grayscale images
+|Task|Task Name|Descriptions| 
+|--|--|--|
+|T1|Image resolution|Increase image resolution|
+|T2|De-noising|Remove noise|
+|T3|De-blurring|Sharp blurry images|
+|T4|Colorization|Add color information to grayscale images|
+
 
 **Performance Metrics:**
+|Metrics|Description|
+|--|--|
+|**PSNR** (Peak Signal-to-Noise Ratio)| Higher values indicate better quality|
+|**SSIM** (Structural Similarity Index)| Values range from -1 to 1, with higher values indicating better structural similarity|
+|**MSE** (Mean Squared Error)| Lower values indicate better quality|
+|**VQA** (Visual Quality Assessment)| This can be any standardized measure of perceptual quality, higher values indicate better perceived quality|
 
-- **PSNR** (Peak Signal-to-Noise Ratio): Higher values indicate better quality.
-- **SSIM** (Structural Similarity Index): Values range from -1 to 1, with higher values indicating better structural similarity.
-- **MSE** (Mean Squared Error): Lower values indicate better quality.
-- **VQA** (Visual Quality Assessment): This can be any standardized measure of perceptual quality, higher values indicate better perceived quality.
-
-These performance metrics are averaged based on standard benchmark datasets commonly used for each task. Specific results may vary depending on the dataset and evaluation protocols used.
+> [!IMPORTANT]\
+> These performance metrics are averaged based on standard benchmark datasets commonly used for each task. Specific results may vary depending on the dataset and evaluation protocols used.
 
 ## T1: Image Resolution
 
