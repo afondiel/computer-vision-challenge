@@ -9,7 +9,8 @@ Top State Of The Art (SOTA) models reference **Benchmarking** for Image Restorat
 |T1|Image resolution|Increase image resolution|
 |T2|De-noising|Remove noise|
 |T3|De-blurring|Sharp blurry images|
-|T4|Colorization|Add color information to grayscale images|
+|T4|Image Colorization|Add color information to grayscale images|
+|T5|Image Inpainting | Reconstruct missing or damaged parts of an image|
 
 
 **Performance Metrics:**
@@ -72,7 +73,6 @@ Top State Of The Art (SOTA) models reference **Benchmarking** for Image Restorat
 | 10       | Pyramid DeblurNet       | CNN            | Image Deblurring     | Pyramid structure, progressive deblurring, feature fusion                                                 | 30.12         | 0.910    | 12.08    | 0.808                      |
 
 
-
 ## T4: Colorization
 
 
@@ -88,6 +88,22 @@ Top State Of The Art (SOTA) models reference **Benchmarking** for Image Restorat
 | 8        | PixColor                | CNN            | Image Colorization   | Pixel-wise colorization, deep network, feature extraction                                                   | 24.30         | 0.851    | 122.34   | 0.784                      |
 | 9        | CIE-Lab Colorization    | Traditional    | Image Colorization   | CIE-Lab color space, hand-crafted features, non-deep learning approach                                      | 23.47         | 0.835    | 138.20   | 0.760                      |
 | 10       | iGAN                    | GAN            | Image Colorization   | Interactive GAN, user-guided, real-time colorization                                                        | 24.75         | 0.858    | 118.04   | 0.788                      |
+
+
+## T5: Image Inpainting
+
+| **Rank** | **Model Name**           | **Type**       | **Primary Use Case** | **Key Features**                                                                                           | **PSNR (dB)** | **SSIM** | **MSE**  | **VQA**                    |
+|----------|--------------------------|----------------|----------------------|------------------------------------------------------------------------------------------------------------|---------------|----------|----------|----------------------------|
+| 1        | DeepFill v2              | CNN            | Image Inpainting     | Gated convolution, contextual attention, large receptive field                                              | 28.94         | 0.920    | 15.67    | 0.810                      |
+| 2        | EdgeConnect              | GAN            | Image Inpainting     | Edge-preserving, two-stage process, edge detection and image completion                                     | 29.34         | 0.930    | 14.78    | 0.825                      |
+| 3        | Partial Convolutions     | CNN            | Image Inpainting     | Mask-update mechanism, partial convolution, dynamic filter weights                                          | 27.95         | 0.900    | 18.54    | 0.795                      |
+| 4        | LaMa                     | CNN            | Image Inpainting     | Large mask inpainting, coarse-to-fine, contextual attention                                                 | 29.20         | 0.925    | 15.01    | 0.820                      |
+| 5        | PConv                    | CNN            | Image Inpainting     | Partial convolution, mask updating, efficient feature extraction                                            | 28.75         | 0.915    | 16.25    | 0.805                      |
+| 6        | GCAM (Gated Convolution) | CNN            | Image Inpainting     | Gated convolutions, mask-aware, attention mechanism                                                         | 28.45         | 0.910    | 17.02    | 0.800                      |
+| 7        | PICNet                   | CNN            | Image Inpainting     | Parallel convolutional network, context aggregation, image blending                                         | 27.60         | 0.890    | 19.43    | 0.780                      |
+| 8        | RFR-Net                  | CNN            | Image Inpainting     | Recurrent feature reasoning, multi-scale, iterative refinement                                              | 28.60         | 0.912    | 16.76    | 0.798                      |
+| 9        | Context Encoder          | GAN            | Image Inpainting     | Autoencoder, adversarial loss, context encoder, global content consistency                                  | 27.28         | 0.885    | 20.21    | 0.770                      |
+| 10       | HiFill                   | GAN            | Image Inpainting     | Hierarchical filling, multi-scale, attention mechanism                                                      | 28.20         | 0.905    | 17.89    | 0.790                      |
 
 
 ## Sources & Improvement
