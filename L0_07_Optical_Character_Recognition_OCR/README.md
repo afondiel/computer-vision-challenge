@@ -85,3 +85,6 @@ Keras:
 Google - tesseract
 - https://github.com/tesseract-ocr/tesseract
 - https://dev.to/ethand91/simple-text-extraction-using-python-and-tesseract-ocr-3b2b
+
+OCR in age of LMM:
+- [Tradition OCR vs Text Extraction from Image using Google Gemini ](https://medium.com/google-cloud/text-extraction-from-image-using-google-gemini-6b9d9989fa84)
