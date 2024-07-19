@@ -4,18 +4,23 @@
 
 Collection of Image Restoration and Enhancement tasks powered by AI.
 
+**Tasks**
+
+|Task|Task Name|Description| 
+|--|--|--|
+|T1|[Image resolution](./notebooks/AI_Image_Restoration_Enhancement_T1_Image_Resolution.ipynb)|Increase image resolution|
+|T2|[De-noising](./notebooks/AI_Image_Restoration_Enhancement_T2_Denoising_DeepInv.ipynb)|Remove noise|
+|T3|[De-blurring](#)|Sharpen blurry images|
+|T4|[Image Colorization](#)|Add color information to grayscale images|
+|T5|[Image Inpainting](#)| Reconstruct missing or damaged parts of an image|
+
 **Implementation Pipeline**
+
 - Setup Environment
 - Install Dependencies
 - Load Pre-trained Models
 - Process Images for Each Task
 - Visualization
-
-**Tasks**
-- T1: Image Resolution
-- T2: Denoising
-- T3: Deblurring
-- T3: Image Colorization
 
 ## Contributing
 
