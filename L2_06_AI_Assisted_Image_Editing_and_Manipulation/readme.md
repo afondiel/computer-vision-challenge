@@ -4,6 +4,24 @@
 
 Automate image editing and manipulation tasks using AI.
 
+## Pipeline
+
+```mermaid
+flowchart LR
+  subgraph Pipeline
+    direction LR
+    B(Owl-ViT)--Bounding Boxes-->C(SAM)
+    C--Seg Masks-->D(Diffusion Model)
+  end 
+  
+  A>Text Prompt]-->B
+  D-->E>Final image]
+
+  style B stroke:#f11,stroke-width:4px
+  style C stroke:#1f1,stroke-width:4px
+  style D stroke:#11f,stroke-width:4px
+```
+
 ## Contributing
 
 If you want to contribute to this project, you are welcome to do so. You can either add new projects, improve existing ones, or fix bugs and errors. 
