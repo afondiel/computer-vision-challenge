@@ -6,15 +6,17 @@ Collection of AI Image Restoration and Enhancement Tasks.
 
 <img width="440" height="300" src="./docs/colorizer/JFK_colored.png">
 
+(Demo: [Hugging Face Space](https://huggingface.co/spaces/afondiel/image-colorizer-deoldify))
+
 ### Tasks
 
-|Name|Description| Notebooks|
-|--|--|--|
-|[T1 - Image Resolution](#)|Increase image resolution|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_03_AI_Powered_Image_Restoration_and_Enhancement/notebooks/AI_Image_Restoration_Enhancement_T1_Image_Resolution.ipynb)|
-|[T2 - De-noising](#)|Remove noise|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_03_AI_Powered_Image_Restoration_and_Enhancement/notebooks/AI_Image_Restoration_Enhancement_T2_Denoising_DeepInv.ipynb)|
-|[T3 - De-blurring](#)|Sharpen blurry images|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-|[T4 - Image Colorization](#)|Add color information to grayscale images|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_03_AI_Powered_Image_Restoration_and_Enhancement/notebooks/AI_Image_Restoration_Enhancement_T4_Colorization_Deoldify.ipynb)|
-|[T5 - Image Inpainting](#)| Reconstruct missing or damaged parts of an image|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|Name|Description|Notebook|Hugging Face Space|
+|--|--|--|--|
+|[T1 - Image Resolution](#)|Increase image resolution|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_03_AI_Powered_Image_Restoration_and_Enhancement/notebooks/AI_Image_Restoration_Enhancement_T1_Image_Resolution.ipynb)||
+|[T2 - De-noising](#)|Remove noise|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_03_AI_Powered_Image_Restoration_and_Enhancement/notebooks/AI_Image_Restoration_Enhancement_T2_Denoising_DeepInv.ipynb)||
+|[T3 - De-blurring](#)|Sharpen blurry images|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)||
+|[T4 - Image Colorization](#)|Add color information to grayscale images|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_03_AI_Powered_Image_Restoration_and_Enhancement/notebooks/AI_Image_Restoration_Enhancement_T4_Colorization_Deoldify.ipynb)|[Demo](https://huggingface.co/spaces/afondiel/image-colorizer-deoldify)|
+|[T5 - Image Inpainting](#)| Reconstruct missing or damaged parts of an image|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)||
 
 **Implementation Pipeline**
 
