@@ -2,24 +2,50 @@
 
 ## Overview
 
-Automate image editing and manipulation tasks using AI.
+This is an AI Image Editing and Manipulation tool for Image creation, editing and manipulation.
+
+**Tasks:**
+- Creation: Generate AI Image with text prompt or with a sketch
+- Editing: using sketch, inpainting with diffusion mode
+- Manipulation: upscale, denoise, colorize and deblur 
 
 ## Pipeline
 
 ```mermaid
 flowchart LR
-  subgraph Pipeline
+  subgraph High Level Architecture
     direction LR
-    B(Owl-ViT)--Bounding Boxes-->C(SAM)
-    C--Seg Masks-->D(Diffusion Model)
-  end 
-  
-  A>Text Prompt]-->B
-  D-->E>Final image]
+    subgraph Load_Im [Load Image]
+      M[/Input Image/]
+    end
+    subgraph AI-Tool
+      direction TB
+      B(Image Generator)
+      C(Upscaler)
+      D(Denoiser)
+      E(Decolorizer)
+      F(Inpainting)
+    end 
+    Z([Text/Sketch])-->B
+    M-->C
+    M-->D
+    M-->E
+    M-->F
+    
+    B-->N[/Gen Image/]    
+    C-->I[/Out Image/]
+    D-->J[/Out Image/]
+    E-->K[/Out Image/]
+    F-->L[/Out Image/]
+  end
 
-  style B stroke:#f11,stroke-width:4px
-  style C stroke:#1f1,stroke-width:4px
-  style D stroke:#11f,stroke-width:4px
+  style B stroke:#f11,stroke-width:2px
+  style C stroke:#1f1,stroke-width:2px
+  style D stroke:#11f,stroke-width:2px
+  style E stroke:#e82,stroke-width:2px
+  style F stroke:#42e,stroke-width:2px
+  style Load_Im fill:#ccc
+  style AI-Tool fill:#bdf
 ```
 
 ## Contributing
@@ -39,6 +65,13 @@ Please follow these steps to contribute:
 - [LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance](https://huggingface.co/spaces/editing-images/project)
 - [Image-Editing Basics and a Tutorial for Automation With AI - Cloudinary](https://cloudinary.com/blog/image_editing_basics_and_a_tutorial_for_automation_with_ai)
 - [Revolutionizing Image Editing: How AI is Transforming Photo Retouching](https://topdigital.agency/revolutionizing-image-editing-how-ai-is-transforming-photo-retouching/)
+- [Build Free AI Sketch2Picture Tool using Stable Diffusion & Gradio](https://www.youtube.com/watch?v=TOk75Xcjolg)
 
-
-
+**Benchmark projects:**
+- [freepikAI](https://www.freepik.com/ai)
+- [Magnific](https://magnific.ai/)
+- [Cloudinary.com](https://cloudinary.com)
+  - [Image-Editing Basics and a Tutorial for Automation With AI - cloudinary.com](https://cloudinary.com/blog/image_editing_basics_and_a_tutorial_for_automation_with_ai)
+- [AI Photoshop - Etrans Lab: Image inpainting tool](https://console.cloud.google.com/marketplace/product/etranslab-public/ai-photoshop?hl=fr&project=ace-forest-432206-b8)
+  - Demo: [ai-photoshop.mp4 - s3.amazonaws.com](https://s3.amazonaws.com/ami.initialization/LamaCleaner/ai-photoshop.mp4)
+ 
