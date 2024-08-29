@@ -47,6 +47,16 @@ flowchart LR
   style Load_Im fill:#ccc
   style AI-Tool fill:#bdf
 ```
+## Tools
+
+|Name|Description|Notebook|Hugging Face Space|
+|--|--|--|--|
+|[Image Generator](#)| Generate a realistic image from Text/Sketch |[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation/notebooks/Image_Generator_Diffusion_Models.ipynb)||
+|[Upscaler](#)|Increase image resolution|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation/notebooks/Upscaler_ISR.ipynb)|[HF Space (Demo)](https://huggingface.co/spaces/afondiel/image-upscaler-isr)|
+|[Denoiser](#)|Remove noise|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation/notebooks/Denoiser_Deepinv.ipynb)||
+|[Colorizer](#)|Add color information to grayscale images|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation/notebooks/Colorizer_Deoldify.ipynb)|[HF Space (Demo)](https://huggingface.co/spaces/afondiel/image-colorizer-deoldify)|
+|[Inpainter](#)| Reconstruct missing or damaged parts of an image|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation/notebooks/Inpainter_Stable_Diffusion.ipynb)||
+
 
 ## Contributing
 
