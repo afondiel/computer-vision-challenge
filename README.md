@@ -131,9 +131,9 @@ Please follow these steps to contribute:
 
 This project is licensed under the MIT [LICENSE](./LICENSE).
 
-## Reference
+## References
 
-Some of the projects in this repository are inspired by or based on the following sources:
+The following resources have been influential in shaping this project:
 
 - [Computer Vision OpenCV Python Free Course Udemy](https://github.com/afondiel/Computer-Vision-OpenCV-Python-Free-Course-Udemy)
 - [Computer Vision Free Course - Kaggle](https://github.com/afondiel/Computer-Vision-Kaggle-Free-Course)
