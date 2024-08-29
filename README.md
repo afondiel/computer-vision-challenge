@@ -12,7 +12,7 @@ Explore some of computer vision core concepts and hands-on projects through this
 The project has 3 levels: 
 - **Level 0 - Zero (beginner): Getting Started with Basics** 
 - **Level 1 - Apprentice (intermediate): Hands-on Computer Vision with Deep Learning**
-- **Level 2 - Hero (advanced): Large Vision Models (LVMs) from Image Generation, Captioning, Inpainting, & More** 
+- **Level 2 - Hero (advanced): Large Vision Models (LVMs) from Image Generation, Inpainting, & More** 
 
 > [!IMPORTANT]\
 > In L1 and L2, we primarily leverage pre-trained models to ensure accessibility for everyone. This also allows us to explore a wider range of vision recognition tasks using different types of models while focusing on the model's performance and outcome.
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 |[[7]](./L1_07_Human_Pose_Estimation_with_Deep_Learning) | Human Pose Estimation | Estimate the pose of a person in an image or a video using OpenCV and a pre-trained model. |[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/L1_07_Human_Pose_Estimation_with_Deep_Learning/Human_Pose_Estimation_using_Deep_Learning.ipynb)|
 
 
-### Level 2 - Hero: Large Vision Models (LVMs) from Image Generation, Captioning, Inpainting, & More** ⚡
+### Level 2 - Hero: Large Vision Models (LVMs) from Image Generation, Inpainting, & More ⚡
 
 ||Project|Description|Notebooks|
 |--|--|--|--|
