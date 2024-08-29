@@ -15,7 +15,7 @@ This is an AI Image Editing and Manipulation tool for Image creation, editing an
 flowchart LR
   subgraph High Level Architecture
     direction LR
-    subgraph Load_Im [Load Image]
+    subgraph Load_Im [Upload Image]
       M[/Input Image/]
     end
     subgraph AI-Tool
