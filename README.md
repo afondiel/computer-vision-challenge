@@ -12,7 +12,7 @@ Explore some of computer vision core concepts and hands-on projects through this
 The project has 3 levels: 
 - **Level 0 - Zero (beginner): Getting Started with Basics** 
 - **Level 1 - Apprentice (intermediate): Hands-on Computer Vision with Deep Learning**
-- **Level 2 - Hero (advanced): Vision LLMs: Image Generation(GANs, VAEs...), Synthesis & Captioning** 
+- **Level 2 - Hero (advanced): Large Vision Models (LVMs) from Image Generation, Captioning, Inpainting, & More** 
 
 > [!IMPORTANT]\
 > In L1 and L2, we primarily leverage pre-trained models to ensure accessibility for everyone. This also allows us to explore a wider range of vision recognition tasks using different types of models while focusing on the model's performance and outcome.
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 |[[7]](./L1_07_Human_Pose_Estimation_with_Deep_Learning) | Human Pose Estimation | Estimate the pose of a person in an image or a video using OpenCV and a pre-trained model. |[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-hello-world-challenges/blob/main/L1_07_Human_Pose_Estimation_with_Deep_Learning/Human_Pose_Estimation_using_Deep_Learning.ipynb)|
 
 
-### Level 2 - Hero: Vision LLMs: Image Generation(GANs, VAEs...), Synthesis & Captioning ⚡
+### Level 2 - Hero: Large Vision Models (LVMs) from Image Generation, Captioning, Inpainting, & More** ⚡
 
 ||Project|Description|Notebooks|
 |--|--|--|--|
@@ -101,7 +101,7 @@ pip install -r requirements.txt
 |[[3]](L2_03_AI_Powered_Image_Restoration_and_Enhancement)|AI-Powered Image Restoration and Enhancement	|Restore and enhance images using AI methods.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_03_AI_Powered_Image_Restoration_and_Enhancement/notebooks/AI_Image_Restoration_Enhancement_T1_Image_Resolution.ipynb)|
 |[[4]](L2_04_Style_Transfer_with_GANs_and_Image_Processing)|Style Transfer with GANs and Image Processing	|Transfer the artistic style of one image to another.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 |[[5]](L2_05_AI_Driven_Image_Captioning_and_Storytelling)|AI-Driven Image Captioning and Storytelling	|Generate comprehensive and creative captions and stories from images using LLMs.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-|[[6]](L2_06_AI_Assisted_Image_Editing_and_Manipulation)|AI-Assisted Image Editing and Manipulation	|Automate image editing and manipulation tasks using AI.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[6]](L2_06_AI_Assisted_Image_Editing_and_Manipulation)|AI-Assisted Image Editing and Manipulation	|Automate image editing and manipulation tasks using AI.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/afondiel/computer-vision-challenge/tree/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation)|
 |[[7]](L2_07_AI_Powered_Image_Analysis_and_Classification)|AI-Powered Image Analysis and Classification	|Analyze and classify images using AI models|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 
 ## Usage
