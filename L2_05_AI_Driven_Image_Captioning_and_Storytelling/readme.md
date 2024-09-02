@@ -1,8 +1,44 @@
-# L2 - 05: AI Driven Image Captioning and Storytelling
+# L2-05: AI Image Captioning and Storytelling
 
 ## Overview
 
-Image Captioning and Storytelling using AI methods.
+Generate textual and audio stories from image.
+
+## Storyteller Pipeline
+
+```mermaid
+    flowchart LR
+        subgraph Pipeline
+            direction LR
+            subgraph In
+                direction TB
+                A([Story Prompt])
+                B[/Image/]
+            end 
+            subgraph Img2Story
+                direction LR
+                C(Img-2-Txt)--caption-->D(Txt-2-Txt)
+                D--story-->E(Txt-2-Audio)
+            end 
+            A-->Img2Story
+            B-->Img2Story
+            Img2Story-->X([Read Story])
+            Img2Story-->Z([Play Story])
+        end
+    style C stroke:#f11,stroke-width:2px
+    style D stroke:#1f1,stroke-width:2px
+    style E stroke:#11f,stroke-width:2px
+    
+    style In fill:#ccc
+    style Img2Story fill:#bdf
+```
+### Description
+
+| Module | Description |
+|---|---|
+| **Img-2-Txt** | Generates caption for image |
+| **Txt-2-Txt** | Creates cool stories from image caption |
+| **Txt-2-Audio** | Converts textual story to audio |
 
 ## Contributing
 
