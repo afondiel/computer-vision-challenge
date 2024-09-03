@@ -100,7 +100,7 @@ pip install -r requirements.txt
 |[[2]](L2_02_Text_to_Image_Synthesis_with_LLMs_and_Large_Vision_Models)|Text-to-Image Synthesis with LLMs and Diffusion Models	|Create realistic and creative images from text descriptions using LLMs and diffusion models.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_02_Text_to_Image_Synthesis_with_LLMs_and_Large_Vision_Models/notebooks/Text_to_Image_Synthesis_LLMs_VLMs.ipynb)|
 |[[3]](L2_03_AI_Powered_Image_Restoration_and_Enhancement)|AI-Powered Image Restoration and Enhancement	|Restore and enhance images using AI methods.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_03_AI_Powered_Image_Restoration_and_Enhancement/notebooks/AI_Image_Restoration_Enhancement_T1_Image_Resolution.ipynb)|
 |[[4]](L2_04_Style_Transfer_with_GANs_and_Image_Processing)|Style Transfer with GANs and Image Processing	|Transfer the artistic style of one image to another.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](./L2_04_Style_Transfer_with_GANs_and_Image_Processing/notebooks/style_transfer_tf.ipynb)|
-|[[5]](L2_05_AI_Driven_Image_Captioning_and_Storytelling)|AI-Driven Image Captioning and Storytelling	|Generate comprehensive and creative captions and stories from images using LLMs.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[5]](L2_05_AI_Driven_Image_Captioning_and_Storytelling)|AI-Driven Image Captioning and Storytelling |Generate comprehensive and creative captions and stories from images using LLMs.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_05_AI_Driven_Image_Captioning_and_Storytelling/notebooks/AI_Image_Captioner_Storyteller.ipynb)|
 |[[6]](L2_06_AI_Assisted_Image_Editing_and_Manipulation)|AI-Assisted Image Editing and Manipulation	|Automate image editing and manipulation tasks using AI.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/afondiel/computer-vision-challenge/tree/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation)|
 |[[7]](L2_07_AI_Powered_Image_Analysis_and_Classification)|AI-Powered Image Analysis and Classification	|Analyze and classify images using AI models|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 
@@ -112,7 +112,7 @@ For projects with a `main.py` file, run the command below:
   
 ```
 python main.py
-```
+``
 
 ## Contributing
 
