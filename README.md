@@ -112,7 +112,7 @@ For projects with a `main.py` file, run the command below:
   
 ```
 python main.py
-``
+```
 
 ## Contributing
 
