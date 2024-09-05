@@ -1,8 +1,8 @@
-# L2 - 07: AI Powered Image Analysis and Classification
+# L2-07: AI Image Recognition Benchmarks with SOTA Vision Models
 
 ## Overview
 
-This is a collection of projects focusing on Image Analysis and Classification using AI methods.
+This project benchmarks State-Of-The-Art (SOTA) Vision Models for a variety of image recognition tasks, including image classification, object detection, and semantic segmentation.
 
 
 ## Contributing
@@ -20,7 +20,7 @@ Please follow these steps to contribute:
 ## References
 
 - [Vision AI: Image & Visual AI Tools - Google Cloud API](https://cloud.google.com/vision?hl=en)
-- [Create a custom Image Analysis model (preview)](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/model-customization?tabs=studio)
+- [Create a custom Image Analysis model (preview) - Azure AI Vision](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/model-customization?tabs=studio)
 
 Built-In Tools
 - [M6 - Vision AI tool](https://www.ml6.eu/solutions/vision-ai)
