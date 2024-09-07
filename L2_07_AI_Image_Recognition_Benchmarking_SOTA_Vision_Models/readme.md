@@ -1,4 +1,4 @@
-# L2-07: AI Image Recognition Benchmarks with SOTA Vision Models
+# L2-07: AI Image Recognition Benchmarking with SOTA Vision Models
 
 ## Overview
 
