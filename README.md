@@ -102,7 +102,7 @@ pip install -r requirements.txt
 |[[4]](L2_04_Style_Transfer_with_GANs_and_Image_Processing)|Style Transfer with GANs and Image Processing	|Transfer the artistic style of one image to another.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](./L2_04_Style_Transfer_with_GANs_and_Image_Processing/notebooks/style_transfer_tf.ipynb)|
 |[[5]](L2_05_AI_Driven_Image_Captioning_and_Storytelling)|AI-Driven Image Captioning and Storytelling |Generate comprehensive and creative captions and stories from images using LLMs.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_05_AI_Driven_Image_Captioning_and_Storytelling/notebooks/AI_Image_Captioner_Storyteller.ipynb)|
 |[[6]](L2_06_AI_Assisted_Image_Editing_and_Manipulation)|AI-Assisted Image Editing and Manipulation	|Automate image editing and manipulation tasks using AI.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/afondiel/computer-vision-challenge/tree/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation)|
-|[[7]](L2_07_AI_Image_Recognition_Benchmarks_SOTA_Vision_Models)|AI Image Recognition Benchmarks with SOTA Vision Models| Benchmark SOTA Vision Models on a variety of image recognition tasks, including image classification, object detection, ...|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_07_AI_Image_Recognition_Benchmarks_SOTA_Vision_Models/notebooks/AI_Image_Recognition_Benchmarks_SOTA_Vision_Models.ipynb)|
+|[[7]](L2_07_AI_Image_Recognition_Benchmarking_SOTA_Vision_Models)|AI Image Recognition Benchmarks with SOTA Vision Models| Benchmark SOTA Vision Models on a variety of image recognition tasks, including image classification, object detection, ...|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_07_AI_Image_Recognition_Benchmarking_SOTA_Vision_Models/notebooks/AI_Image_Recognition_Benchmarks_SOTA_Vision_Models.ipynb)|
 
 ## Usage
 
@@ -114,17 +114,66 @@ For projects with a `main.py` file, run the command below:
 python main.py
 ```
 
+## Roadmap & Upcoming Features
+
+**Roadmap:**
+
+```mermaid
+    flowchart BT
+        A(Level 0: Zero) --> B(Level 1: Intermediate)
+        A --> C(Level 2: Hero)
+        A --> D(Level 3: Advanced)
+        A --> E(Level 4: Master)
+        A --> F(Level 5: Expert)
+        
+        style A fill:#fff,stroke:#333,stroke-width:2px
+        style B fill:#88f,stroke:#333,stroke-width:2px
+        style C fill:#8f8,stroke:#333,stroke-width:2px
+        style D fill:#bbb,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+        style E fill:#bbb,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+        style F fill:#bbb,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+
+``` 
+New levels:
+- L3 - Advanced: Video Models Benchmarking
+- L4 - Master: Multimodality
+- L5 - Expert: Finetuning of VLMs (Vision Large Models)
+
+
+**Upcoming Features:**
+
+| Feature | Description | Status |
+|---|---|---|
+| **Code Refactoring** | Enhance code readability by cleaning, documenting, and integrating Gradio demos. | To-Do |
+| **New Learning Levels** | Introduce advanced levels: L3 - Video Models Benchmarking, L4 - Multimodality, and L5 - Expert: Finetuning of VLMs (Vision Large Models). | To-Do |
+| **Wiki Update** | Document the new learning levels in the project Wiki. | To-Do |
+| **Multilingual Support** | Translate the README.md file into multiple languages (French, Spanish, etc.). | To-Do |
+| **Edge Device Deployment** | Explore code translation for deployment on edge devices using C++ or Rust. | To-Do |
+| **Performance Enhancements** | Investigate options to improve performance, including adding new datasets and supporting additional computer vision tasks. | To-Do |
+| **Machine Learning Framework Integration** | Integrate the project with popular machine learning frameworks. | To-Do |
+
+
 ## Contributing
 
-Help this project grow! Add new projects, improve existing ones and fix issues. 
+We warmly welcome your contributions! Whether you're a seasoned developer or just starting out in Computer Vision, you can help us improve the project and make it more valuable to everyone.
 
-Please follow these steps to contribute:
+How to contribute:
 
 - Fork this repository and clone it to your local machine.
 - Create a new branch with a descriptive name for your contribution.
 - Add your code and files to the branch and commit your changes.
 - Push your branch to your forked repository and create a pull request to the main repository.
 - Wait for your pull request to be reviewed and merged.
+
+## Sponsor this Project
+
+Another way to get involved is by [sponsoring](https://github.com/sponsors/afondiel) the project.
+
+Your support will help:
+
+- Provide computational resources (This a GPU Poor Project!!!) to explore new frontiers in computer vision by training larger and more complex model
+- Keep the project up to date with the latest computer vision advancements
+- Create more detailed tutorials for users at all skill levels 
 
 
 ## LICENSE
