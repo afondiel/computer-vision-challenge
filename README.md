@@ -171,7 +171,7 @@ Another way to get involved is by [sponsoring](https://github.com/sponsors/afond
 
 Your support will help:
 
-- Provide computational resources (This a GPU Poor Project!!!) to explore new frontiers in computer vision by training larger and more complex model
+- Provide computational resources (This is a GPU Poor Project!!!) to explore new frontiers in computer vision by training larger and more complex model
 - Keep the project up to date with the latest computer vision advancements
 - Create more detailed tutorials for users at all skill levels 
 
