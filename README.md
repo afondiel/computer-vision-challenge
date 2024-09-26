@@ -137,7 +137,7 @@ python main.py
 New levels:
 - L3 - Advanced: Video Models Benchmarking
 - L4 - Master: Multimodality
-- L5 - Expert: Finetuning of VLMs (Vision Large Models)
+- L5 - Expert: Finetuning of VLMs (Vision Language Models) & LVMs
 
 
 **Upcoming Features:**
@@ -145,7 +145,7 @@ New levels:
 | Feature | Description | Status |
 |---|---|---|
 | **Code Refactoring** | Enhance code readability by cleaning, documenting, and integrating Gradio demos. | To-Do |
-| **New Learning Levels** | Introduce advanced levels: L3 - Video Models Benchmarking, L4 - Multimodality, and L5 - Expert: Finetuning of VLMs (Vision Large Models). | To-Do |
+| **New Learning Levels** | Introduce advanced levels: L3 - Video Models Benchmarking, L4 - Multimodality, and L5 - Expert: Finetuning of VLMs (Vision Language Models) & LVMs. | To-Do |
 | **Wiki Update** | Document the new learning levels in the project Wiki. | To-Do |
 | **Multilingual Support** | Translate the README.md file into multiple languages (French, Spanish, etc.). | To-Do |
 | **Edge Device Deployment** | Explore code translation for deployment on edge devices using C++ or Rust. | To-Do |
