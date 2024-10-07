@@ -123,8 +123,8 @@ python main.py
         A(Level 0: Zero) --> B(Level 1: Intermediate)
         A --> C(Level 2: Hero)
         A --> D(Level 3: Advanced)
-        A --> E(Level 4: Master)
-        A --> F(Level 5: Expert)
+        A --> E(Level 4: Expert)
+        A --> F(Level 5: Master)
         
         style A fill:#fff,stroke:#333,stroke-width:2px
         style B fill:#88f,stroke:#333,stroke-width:2px
@@ -136,8 +136,8 @@ python main.py
 ``` 
 New levels:
 - L3 - Advanced: Video Models Benchmarking
-- L4 - Master: Multimodality
-- L5 - Expert: Finetuning of VLMs (Vision Language Models) & LVMs
+- L4 - Expert: Finetuning of VLMs (Vision Language Models) & LVMs
+- L5 - Master: Multimodality
 
 
 **Upcoming Features:**
@@ -145,7 +145,7 @@ New levels:
 | Feature | Description | Status |
 |---|---|---|
 | **Code Refactoring** | Enhance code readability by cleaning, documenting, and integrating Gradio demos. | To-Do |
-| **New Learning Levels** | Introduce advanced levels: L3 - Video Models Benchmarking, L4 - Multimodality, and L5 - Expert: Finetuning of VLMs (Vision Language Models) & LVMs. | To-Do |
+| **New Learning Levels** | Introduce advanced levels: L3 - Video Models Benchmarking, L4 - Finetuning of VLMs (Vision Language Models) & LVMs, and L5 - Multimodality | To-Do |
 | **Wiki Update** | Document the new learning levels in the project Wiki. | To-Do |
 | **Multilingual Support** | Translate the README.md file into multiple languages (French, Spanish, etc.). | To-Do |
 | **Edge Device Deployment** | Explore code translation for deployment on edge devices using C++ or Rust. | To-Do |
