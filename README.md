@@ -183,25 +183,6 @@ This project is licensed under the MIT [LICENSE](./LICENSE).
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=afondiel/computer-vision-challenge&type=Date)](https://star-history.com/#afondiel/computer-vision-challenge&Date)
-## References
-
-The following resources have been influential in shaping this project:
-
-- [Computer Vision OpenCV Python Free Course Udemy](https://github.com/afondiel/Computer-Vision-OpenCV-Python-Free-Course-Udemy)
-- [Computer Vision Free Course - Kaggle](https://github.com/afondiel/Computer-Vision-Kaggle-Free-Course)
-- [Visual Perception for Self-Driving Cars - University of Toronto](https://github.com/afondiel/Self-Driving-Cars-Specialization/tree/main/Course3-Visual-Perception-for-Self-Driving-Cars)
-- [The Complete Self-Driving Car Course - Udemy](https://github.com/afondiel/The-Complete-Self-Driving-Car-Course-Udemy)
-- [Top Computer Vision Projects (2023) - GeeksforGeeks](https://www.geeksforgeeks.org/computer-vision-projects/)
-- [15 Computer Visions Projects You Can Do Right Now - neptune.ai](https://neptune.ai/blog/15-computer-visions-projects)
-- [30+ Unique Computer Vision Projects with Source Code – 2023](https://machinelearningprojects.net/opencv-projects/)
-- [7+ Computer Vision Projects on GitHub with Source Code 2024 - Omdena](https://omdena.com/blog/computer-vision-projects-github/)
-- [20+ Computer Vision Projects Ideas for Beginners in 2023](https://www.projectpro.io/article/computer-vision-projects/437).
--  [A Dive into Vision-Language Models](https://huggingface.co/blog/vision_language_pretraining)
--  [Advances in Visual Pretraining for LLMS | Neil Houlsby](https://www.youtube.com/watch?v=ZwtMEF0u5cM)
--  [VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/pdf/2305.11175.pdf)
--  [LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions](https://arxiv.org/pdf/2311.11904.pdf)
--  [Transforming Computer Vision with LLMs - Data Science Dojo](https://datasciencedojo.com/tutorial/transforming-computer-vision-with-llms/)
 
 > ### "Vision is a picture of the future that produces passion." - Bill Hybels
-
 
