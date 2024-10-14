@@ -180,6 +180,9 @@ Your support will help:
 
 This project is licensed under the MIT [LICENSE](./LICENSE).
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=afondiel/computer-vision-challenge&type=Date)](https://star-history.com/#afondiel/computer-vision-challenge&Date)
 ## References
 
 The following resources have been influential in shaping this project:
