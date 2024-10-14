@@ -7,12 +7,15 @@
 
 This is a collection of foundational projects for anyone diving into computer vision. 
 
-Explore some of computer vision core concepts and hands-on projects through this fun challenge.
+Explore some of computer vision core concepts and hands-on projects through challenges.
 
-The project has 3 levels: 
-- **Level 0 - Zero (beginner): Getting Started with Basics** 
-- **Level 1 - Apprentice (intermediate): Hands-on Computer Vision with Deep Learning**
-- **Level 2 - Hero (advanced): Large Vision Models (LVMs) from Image Generation, Inpainting, & More** 
+Challenges are organized into levels: 
+- **Level 0 - Zero/beginner: Getting Started with Basics** 
+- **Level 1 - Apprentice/intermediate: Hands-on Computer Vision with Deep Learning**
+- **Level 2 - Hero: Large Vision Models (LVMs) from Image Generation, Inpainting, & More**
+- **Level 3 - Advanced: Video Models Benchmarking**
+- **Level 4 - Expert: Finetuning of VLMs (Vision Language Models) & LVMs**
+- **Level 5 - Master: Multimodality**
 
 > [!IMPORTANT]\
 > In L1 and L2, we primarily leverage pre-trained models to ensure accessibility for everyone. This also allows us to explore a wider range of vision recognition tasks using different types of models while focusing on the model's performance and outcome.
