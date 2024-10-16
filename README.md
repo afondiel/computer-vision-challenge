@@ -107,6 +107,21 @@ pip install -r requirements.txt
 |[[6]](L2_06_AI_Assisted_Image_Editing_and_Manipulation)|AI-Assisted Image Editing and Manipulation	|Automate image editing and manipulation tasks using AI.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/afondiel/computer-vision-challenge/tree/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation)|
 |[[7]](L2_07_AI_Image_Recognition_Benchmarking_SOTA_Vision_Models)|AI Image Recognition Benchmarks with SOTA Vision Models| Benchmark SOTA Vision Models on a variety of image recognition tasks, including image classification, object detection, ...|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L2_07_AI_Image_Recognition_Benchmarking_SOTA_Vision_Models/notebooks/AI_Image_Recognition_Benchmarks_SOTA_Vision_Models.ipynb)|
 
+
+### Level 3 - Advanced: Video Models Benchmarking
+
+
+||Project|Description|Notebooks|
+|---------------------------------------|----------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------|
+|[[1]](L3_01_Video_Generation_Captioning)|Video Generation & Captioning|Create realistic video content from text, generate descriptive text or subtitles for video content using AI models.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[2]](L3_02_Facial_Emotion_Recognition)|Facial Emotion Recognition|Automatically generate descriptive text or subtitles for video content using AI.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[3]](L3_03_Motion_Analysis)|Motion Analysis|Analyze the motion and movement of objects in a video sequence techniques: tracking, optical flow, video detection, etc.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[4]](L3_04_Video_Segmentation)|Video Segmentation|Divide video frames into meaningful segments or regions for analysis and processing.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[5]](L3_05_Video_Style_Transfer)|Video Style Transfer|Apply artistic styles from one video or image to another video, transforming its visual appearance.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[6]](L3_06_Video_Restoration_Enhancement)|Video Restoration & Enhancement|Restore and enhance videos using AI methods.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+|[[7]](L3_07_Video_Models_Benchmarking)|Video Models Benchmarking|Benchmark SOTA Video Models on a variety of video recognition tasks, including video classification, object detection, etc.|[![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+
+
 ## Usage
 
 Most projects are written in Jupyter notebooks, you can run the directly using `jupyter notebook/lab` or `Colab`.
