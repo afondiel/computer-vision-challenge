@@ -1,12 +1,12 @@
-# L2-07: AI Image Recognition Benchmarking with SOTA Vision Models
+# L2-07: SOTA Foundation Vision Models Benchmarking for Visual Recognition
 
 ## Overview
 
-This project benchmarks State-Of-The-Art (SOTA) Vision Models for a variety of image recognition tasks, including image classification, object detection, and semantic segmentation.
+This project benchmarks State-Of-The-Art (SOTA) Foundation Vision Models for a variety of visual recognition tasks, including image classification, object detection, and semantic segmentation.
 
-### Core Image Recognition Tasks
+### Core Visual Recognition Tasks
 
-| **Core Image Recognition Tasks** | **Description** | **Examples** |
+| **Core Visual Recognition Tasks** | **Description** | **Examples** |
 |--|--|--|
 | Image Classification | Assigns a label to an image. | Classifying an image as "cat" or "dog." |
 | Object Detection | Detects and localizes objects in an image. | Detecting cars and pedestrians in a street scene. |
@@ -16,9 +16,9 @@ This project benchmarks State-Of-The-Art (SOTA) Vision Models for a variety of i
 | Action Recognition | Identifies actions in an image or video. | Recognizing someone is "running" or "jumping." |
 | Pose Estimation | Estimates joint locations of humans or animals. | Detecting body pose in yoga poses. |
 
-### Advanced Image Recognition Tasks
+### Advanced Visual Recognition Tasks
 
-| **Advanced Image Recognition Tasks** | **Description** | **Examples** |
+| **Advanced Visual Recognition Tasks** | **Description** | **Examples** |
 |--|--|--|
 | Image Segmentation (General) | Divides an image into meaningful regions with pixel-level accuracy. | Separating a cat from the background. |
 | Depth Estimation | Predicts depth for each pixel in an image. | Estimating distances in a 3D scene. |
@@ -28,9 +28,9 @@ This project benchmarks State-Of-The-Art (SOTA) Vision Models for a variety of i
 | Image Inpainting | Fills in missing or corrupted parts of an image. | Restoring damaged areas in an old photograph. |
 | Image Style Transfer | Transfers the style of one image to another. | Applying Van Gogh’s painting style to a photo. |
 
-### Video-Based Image Recognition Tasks
+### Video-Based Visual Recognition Tasks
 
-| **Video-Based Image Recognition Tasks** | **Description** | **Examples** |
+| **Video-Based Visual Recognition Tasks** | **Description** | **Examples** |
 |--|--|--|
 | Video Classification | Classifies video sequences based on content. | Identifying a video as "sports" or "news." |
 | Object Tracking | Continuously tracks objects across frames. | Following a car in a traffic video. |
@@ -73,9 +73,20 @@ Please follow these steps to contribute:
 
 ## References
 
-- [Vision AI: Image & Visual AI Tools - Google Cloud API](https://cloud.google.com/vision?hl=en)
-- [Create a custom Image Analysis model (preview) - Azure AI Vision](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/model-customization?tabs=studio)
+SOTA Vision Foundation Models Benchmarking Resources:
+
+- [Vision Models Benchmarking for Visual Recognition Tasks](https://github.com/afondiel/computer-science-notes/blob/master/computer-vision-notes/vision-models/benchmarking/Vision_Models_Benchmarking_for_Visual_Recognition_Tasks.md)
+- [Video Models Benchmarking for Visual Recognition Tasks](https://github.com/afondiel/computer-science-notes/blob/master/computer-vision-notes/vision-models/benchmarking/Video_Models_Benchmarking_for_Visual_Recognition_Tasks.md)
 
 Built-In Tools
 - [M6 - Vision AI tool](https://www.ml6.eu/solutions/vision-ai)
+- [Vision AI: Image & Visual AI Tools - Google Cloud API](https://cloud.google.com/vision?hl=en)
+- [Create a custom Image Analysis model (preview) - Azure AI Vision](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/model-customization?tabs=studio)
+
+
+Vision Foundation Models resources:
+- Recent Advances in Vision Foundation Models CVPR 2024: https://cvpr.thecvf.com/virtual/2023/tutorial/18558
+- Foundation Models for Vision - HF collection by [@merve](https://huggingface.co/merve) : https://huggingface.co/collections/merve/foundation-models-for-vision-6516d5c6af977f435be43ace
+- Roboflow: https://roboflow.com/model-feature/foundation-vision
+- The Tenyks Blogger: https://medium.com/@tenyks_blogger/the-foundation-models-reshaping-computer-vision-b299a91527fb
 
